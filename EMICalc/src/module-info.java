@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author BYO
- *
- */
-module EMICalc {
-}
