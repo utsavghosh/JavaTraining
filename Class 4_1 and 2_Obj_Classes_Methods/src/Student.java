@@ -46,12 +46,4 @@ public class Student {
 		System.out.println(b);
 	}
 	
-	public static void main(String[] args) {
-		Student obj1 = new Student();
-		obj1.fullName();
-		obj1.rollno(10);
-		obj1.studentID(123);		
-
-	}
-
 }
