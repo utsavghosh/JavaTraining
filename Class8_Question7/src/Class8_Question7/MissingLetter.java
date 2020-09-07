@@ -1,9 +1,6 @@
 package Class8_Question7;
 import java.util.*;
 
-import com.sun.jdi.CharType;
-//please help me with the logic. Mine looks flawed
-
 public class MissingLetter {
 
 	public static void main(String[] args) {
