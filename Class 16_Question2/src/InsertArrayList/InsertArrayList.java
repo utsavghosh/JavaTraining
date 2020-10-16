@@ -17,7 +17,7 @@ public class InsertArrayList {
 	      System.out.println(alist);
 	  
 	      //Adding "Utsav" at the first position
-	      alist.add(0, "Utsav");
+	      //alist.add(0, "Utsav");
 	  
 	      //displaying elements
 	      System.out.println(alist);
